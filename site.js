@@ -1,1 +1,1 @@
-alert{" CHENNA NIKHIL SAI"}
+console.log(" CHENNA NIKHIL SAI");
